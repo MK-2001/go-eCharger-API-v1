@@ -41,7 +41,6 @@ Authentifizierung:
 | Cloud: REST Api       | go-eCharger Cloud Token                                                                                |
 | Eigener MQTT Server   | Keine                                                                                                  |
 
-
 ### Rate Limiting
 
 | Verbindung            | Limit                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
