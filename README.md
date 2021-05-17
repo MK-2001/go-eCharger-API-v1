@@ -1,7 +1,7 @@
 # go-eCharger-API-v1
 API specification for go-eCharger Home+ with WiFi connection
 
-[Deutsche Version (German Version)](go-eCharger%20API%20v1%20DE.md)
+[Deutsche Version (German Version)](go-eCharger%20API%20v1%20DE.md) [Download PDF](./pdf)
 
 [English Version](go-eCharger%20API%20v1%20EN.md)
 
