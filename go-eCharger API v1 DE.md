@@ -17,7 +17,7 @@
 5. [Cloud REST Api Workflow](#5-cloud-rest-api-workflow-)
 6. [Eigener MQTT Server](#6-eigener-mqtt-server-)
 
-# 1. Verbindung :
+# 1. Verbindung:
 
 Der go-eCharger bietet zwei WLAN Interfaces, von denen eines immer als mobiler Hotspot dient
 und ein weiteres das sich mit einem vorhandenen WLAN Netzwerk verbinden kann um eine
