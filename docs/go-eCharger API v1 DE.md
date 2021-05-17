@@ -270,3 +270,4 @@ Kommandos werden über dieses Topic entgegengenommen:<br>**go-eCharger/000000/cm
 Das Status Objekt wird alle 5 Sekunden über folgendes Topic ausgegeben:<br>**go-eCharger/000000/status**<br>
 <br>
 Es ist nicht notwendig das Senden speziell zu aktivieren, der go-eCharger sendet durchgehend Daten auf /status.
+
